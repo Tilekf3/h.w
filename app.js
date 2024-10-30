@@ -1,0 +1,6 @@
+console.log('hello word')
+console.error('error')
+console.warn('warn')
+console.info('info')
+alert('hello')
+prompt('HELLO WORLD')
